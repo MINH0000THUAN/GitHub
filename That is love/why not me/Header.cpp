@@ -1,0 +1,61 @@
+#include"Header.h"
+void WhyNotMe()
+{
+	do{
+	cout << endl;
+	cout << "Escaping nights without you with shdows on the wall " << endl;
+	_getch();
+	cout << "My mind is running wild tryin hard not not to fall" << endl;
+	_getch();
+	cout << "You told me that you love me but say I'm just a friend" << endl;
+	_getch();
+	cout << "My heart is broken up into pieces" << endl;
+	_getch();
+	cout << "Cos I know I'll never free my soul" << endl;
+	_getch();
+	cout << "It's trapped between true love and being alone" << endl;
+	_getch();
+	cout << "When my eyes are closed the greatest story told" << endl;
+	_getch();
+	cout << "I woke and my dream are shattered here on the floor" << endl;
+	_getch();
+	cout << "Why oh why tell me why not me" << endl;
+	_getch();
+	cout << "Why oh why we were meant to be" << endl;
+	_getch();
+	cout << "Baby I know I could be all you need" << endl;
+	_getch();
+	cout << "Why oh why oh why" << endl;
+	_getch();
+	cout << "I wanna love you" << endl;
+	_getch();
+	cout << "If you only knew how much I Love you" << endl;
+	_getch();
+	cout << "So why not me" << endl;
+	_getch();
+	cout << "The day after tomorrow I'll still be around" << endl;
+	_getch();
+	cout << "To catch you when you fall and ever let you down" << endl;
+	_getch();
+	cout << "You say that we're forever our love will never end" << endl;
+	_getch();
+	cout << "I've tried to come up but it's drowning me to know" << endl;
+	_getch();
+	cout << "You'll never feelmy soul" << endl;
+	_getch();
+	cout << "You'll never feel my soul " << endl;
+	_getch();
+	cout << "It's trapped between true love and being alone" << endl;
+	_getch();
+	cout << "When my eyes are closed the greatest story told" << endl;
+	_getch();
+	cout << "I woke and my dream are shattered here on the floor" << endl;
+	_getch();
+	cout << "Tell me baby..." << endl;
+	_getch();
+	cout << "You won't ever know" << endl;
+	_getch();
+	cout << "How far we can go " << endl;
+	_getch();
+}while (1);
+}
