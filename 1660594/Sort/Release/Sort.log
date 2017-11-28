@@ -1,0 +1,8 @@
+﻿  Header.cpp
+Header.cpp(10): warning C4101: 'tam': unreferenced local variable
+  main.cpp
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sort.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\GitHub\1660594\Release\Sort.exe
+  Sort.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\GitHub\1660594\Release\Sort.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Header.cpp
+c:\users\multiplication\documents\visual studio 2015\github\1660594\sort\header.cpp(10): warning C4101: 'tam': unreferenced local variable
+  Generating Code...
+  Sort.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\GitHub\1660594\Debug\Sort.exe
+  Sort.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\GitHub\1660594\Debug\Sort.pdb (Full PDB)
