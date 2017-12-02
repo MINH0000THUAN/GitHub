@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Header.cpp
+c:\users\multiplication\documents\visual studio 2015\github\1.0\1.0\header.cpp(4): warning C4101: 'temp': unreferenced local variable
+  Generating Code...
+  1.0.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\GitHub\1.0\Debug\1.0.exe
+  1.0.vcxproj -> C:\Users\multiplication\Documents\Visual Studio 2015\GitHub\1.0\Debug\1.0.pdb (Full PDB)
